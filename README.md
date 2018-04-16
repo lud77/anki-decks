@@ -4,7 +4,7 @@ This deck contains information about nuclei of the thalamus.
 
 
 
-### Images credits
+### Image credits
 
 This deck makes use of the following images:
 
