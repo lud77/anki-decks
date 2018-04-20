@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lud77/anki-decks/issues"
   },
-  "homepage": "https://github.com/lud77/anki-decks#readme"
+  "homepage": "https://github.com/lud77/anki-decks#readme",
+  "devDependencies": {
+    "bestzip": "^1.1.4"
+  }
 }
