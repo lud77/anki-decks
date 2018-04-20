@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lud77/anki-decks#readme",
   "devDependencies": {
-    "bestzip": "^1.1.4"
+    "bestzip": "^1.1.4",
+    "shx": "^0.2.2"
   }
 }
